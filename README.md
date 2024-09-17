@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum below
-I'm not too sure what to write here tho :'D.
+## Website Contents
 
-Just some more changes to learn about a shortcut.
+1. index.html
